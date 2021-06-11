@@ -1,0 +1,11 @@
+This is old code I wrote in 2004 to learn Python and to make an IRC-bot to
+play the game Werewolf since the only bot I found at the time required Java,
+and I wasn't going to defile my server with any of stuff. ;)
+
+Known bugs at the moment:
+- Doesn't reload modules correctly
+- Not PEP8 compliant, I'm working on this, my ideas of "style" has changed
+  since 2004 and hopefully also my spelling. ;)
+
+Imported from bzr: https://bazaar.launchpad.net/~gaqzi/+junk/frankenstein/files
+Originally from an svn repo which was the first SCM system I used
